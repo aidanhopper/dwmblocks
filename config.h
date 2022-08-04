@@ -4,7 +4,7 @@ static const Block blocks[] = {
 	/* {"⌨", "sb-kbselect", 0, 30}, */
 	{" ",	"",	0,	0},
 	{"",	"sb-volume",	0,	10},
-	{"",	"sb-memory",	30,	11},
+	{"",	"sb-memory",	10,	11},
 	{"",	"sb-clock",	60,	12},
 	{" ",	"",	0,	0},
 };
